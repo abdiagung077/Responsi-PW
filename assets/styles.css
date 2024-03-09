@@ -14,7 +14,6 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    background-image: url("bg.jpg"); /* Ganti 'background-image.jpg' dengan nama gambar Anda */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
